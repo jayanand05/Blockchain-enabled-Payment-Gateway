@@ -1,7 +1,7 @@
 
 # Blockchain-enabled-Payment-Gateway
 
-A simple front-end where user can fund, can withdraw and calculate the total amount with given input field. 
+A simple front-end where user can fund, can withdraw with given input field. 
 
 
 ## Fund Me App
