@@ -1,8 +1,7 @@
 
 # Blockchain-enabled-Payment-Gateway
 
-A simple front-end where user can fund as much he wants with given input field and withdraw ETH. This project is made up javascript and HTML.
-
+A simple front-end where user can fund, can withdraw and calculate the total amount with given input field. 
 
 
 ## Fund Me App
